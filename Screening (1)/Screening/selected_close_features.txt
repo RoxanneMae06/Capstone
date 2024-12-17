@@ -1,0 +1,12 @@
+application_close_19_Cat;Dog
+application_close_19_Cat;None	
+application_close_19_Dog;None
+application_close_19_None
+application_close_19_Cat
+application_close_19_Dog
+application_close_39
+application_close_9
+application_close_0
+application_close_5
+application_close_17
+application_close_3
